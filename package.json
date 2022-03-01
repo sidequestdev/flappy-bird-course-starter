@@ -2,7 +2,16 @@
   "name": "flappy-bird-course-starter",
   "version": "1.0.0",
   "repository": "git@github.com:sidequestdev/flappy-bird-course-starter.git",
-  "author": "Jake Klassen <jklassendev@gmail.com>",
+  "contributors": [
+    {
+      "name": "Jake Klassen",
+      "email": "jklassendev@gmail.com"
+    },
+    {
+      "name": "Jason Groulx",
+      "email": "groulx.jason@gmail.com"
+    }
+  ],
   "license": "MIT",
   "scripts": {
     "dev": "vite",
