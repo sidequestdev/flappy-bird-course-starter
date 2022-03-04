@@ -105,10 +105,10 @@ export const spriteMap = {
 
   bird: {
     idle: {
-      sourceX: 96,
-      sourceY: 1296,
-      width: 48,
-      height: 48,
+      sourceX: 0,
+      sourceY: 864,
+      width: 32,
+      height: 32,
     },
     flap: {
       sourceX: 0,
