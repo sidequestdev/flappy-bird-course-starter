@@ -115,7 +115,7 @@ export const spriteMap = {
       sourceY: 864,
       width: 128,
       height: 32,
-      frameWidth: 32,
+      frameWidth: 36,
       frameHeight: 32,
     },
   },
