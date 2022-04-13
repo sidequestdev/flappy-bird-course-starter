@@ -76,7 +76,7 @@ export const spriteMap = {
   ground: {
     sourceX: 0,
     sourceY: 960,
-    width: 512,
+    width: 352,
     height: 64,
   },
 
