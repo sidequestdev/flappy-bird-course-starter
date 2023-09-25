@@ -6,7 +6,7 @@ Base repo for the Flappy Bird Course.
 
 ## Getting Started
 
-> We are using node 16
+> We are using node 20
 
 After you clone this repo, you can start by running the following commands:
 
